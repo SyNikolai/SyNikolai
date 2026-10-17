@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/title-light.svg">
-    <img alt="Synikolai" src="./assets/title-light.svg" width="35%">
+    <img alt="SyNikolai" src="./assets/title-light.svg" width="38.3%">
   </picture>
 </p>
 
@@ -20,7 +20,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/h-stack-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/h-stack-light.svg">
-    <img alt="stack" src="./assets/h-stack-light.svg" width="23%">
+    <img alt="stack" src="./assets/h-stack-light.svg" width="23.4%">
   </picture>
 </p>
 
@@ -46,7 +46,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/h-foundations-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/h-foundations-light.svg">
-    <img alt="foundations" src="./assets/h-foundations-light.svg" width="30%">
+    <img alt="foundations" src="./assets/h-foundations-light.svg" width="30.8%">
   </picture>
 </p>
 
@@ -58,3 +58,15 @@
   </picture>
 </p>
 
+<!--
+  ⟨stack|SyNikolai⟩        projection onto "stack"       → languages
+  ⟨foundations|SyNikolai⟩  projection onto "foundations" → skill tree
+
+  circuit:  H = every interest starts in superposition
+            ●──⊕ = one interest feeds another:
+                   data engineering → data science → advanced ml → mlops → robotics,
+                   quantum computing → advanced ml (quantum machine learning)
+  tree:     linear algebra + statistics → neural networks → |ψ⟩
+            statistics + algorithms → databases / systems architecture → software engineering → |ψ⟩
+  all LaTeX is pre-rendered to assets/*.svg (MathJax) so it looks the same on web and mobile
+-->
