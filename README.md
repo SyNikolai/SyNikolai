@@ -1,4 +1,10 @@
-$$\Huge \mathsf{Synikolai}$$
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/title-light.svg">
+    <img alt="Synikolai" src="./assets/title-light.svg" width="39%">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -10,21 +16,39 @@ $$\Huge \mathsf{Synikolai}$$
 
 <br>
 
-$$\large \left\langle\ \mathsf{stack}\ \middle|\ \mathsf{Synikolai}\ \right\rangle$$
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/h-stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/h-stack-light.svg">
+    <img alt="stack" src="./assets/h-stack-light.svg" width="23%">
+  </picture>
+</p>
 
-$$\small \textsf{three languages, two altitudes}$$
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-sub-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-sub-light.svg">
+    <img alt="three languages, two altitudes" src="./assets/stack-sub-light.svg" width="22%">
+  </picture>
+</p>
 
-$$
-\begin{array}{lcl}
-\bullet\;\; \texttt{C / C++} & \longrightarrow & \textsf{memory, performance, how machines actually run} \\[4pt]
-\bullet\;\; \texttt{Rust}    & \longrightarrow & \textsf{the same speed, with the compiler watching my back} \\[4pt]
-\bullet\;\; \texttt{Python}  & \longrightarrow & \textsf{data, models, and the pipelines between them}
-\end{array}
-$$
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+    <img alt="Tech stack: C/C++ for memory and performance, Rust for the same speed with compiler safety, Python for data, models and pipelines." src="./assets/stack-light.svg" width="56%">
+  </picture>
+</p>
 
 <br>
 
-$$\large \left\langle\ \mathsf{foundations}\ \middle|\ \mathsf{Synikolai}\ \right\rangle$$
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/h-foundations-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/h-foundations-light.svg">
+    <img alt="foundations" src="./assets/h-foundations-light.svg" width="30%">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -44,4 +68,5 @@ $$\large \left\langle\ \mathsf{foundations}\ \middle|\ \mathsf{Synikolai}\ \righ
                    quantum computing → advanced ml (quantum machine learning)
   tree:     linear algebra + statistics → neural networks → |ψ⟩
             statistics + algorithms → databases / systems architecture → software engineering → |ψ⟩
+  all LaTeX is pre-rendered to assets/*.svg (MathJax) so it looks the same on web and mobile
 -->
