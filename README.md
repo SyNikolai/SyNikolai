@@ -54,7 +54,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/skills-light.svg">
-    <img alt="Skill tree: linear algebra and statistics lead to neural networks; statistics and algorithms lead to databases and systems architecture, then software engineering; everything flows into research." src="./assets/skills-light.svg" width="100%">
+    <img alt="Skill tree: linear algebra leads to quantum mechanics; linear algebra and statistics lead to neural networks; statistics and algorithms lead to databases and systems architecture, then software engineering; everything flows into research." src="./assets/skills-light.svg" width="100%">
   </picture>
 </p>
 
@@ -66,7 +66,8 @@
             ●──⊕ = one interest feeds another:
                    data engineering → data science → advanced ml → mlops → robotics,
                    quantum computing → advanced ml (quantum machine learning)
-  tree:     linear algebra + statistics → neural networks → |ψ⟩
+  tree:     linear algebra → quantum mechanics → |ψ⟩
+            linear algebra + statistics → neural networks → |ψ⟩
             statistics + algorithms → databases / systems architecture → software engineering → |ψ⟩
   all LaTeX is pre-rendered to assets/*.svg (MathJax) so it looks the same on web and mobile
 -->
