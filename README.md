@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/title-light.svg">
-    <img alt="Synikolai" src="./assets/title-light.svg" width="39%">
+    <img alt="Synikolai" src="./assets/title-light.svg" width="35%">
   </picture>
 </p>
 
@@ -58,15 +58,3 @@
   </picture>
 </p>
 
-<!--
-  ⟨stack|Synikolai⟩        projection onto "stack"       → languages
-  ⟨foundations|Synikolai⟩  projection onto "foundations" → skill tree
-
-  circuit:  H = every interest starts in superposition
-            ●──⊕ = one interest feeds another:
-                   data engineering → data science → advanced ml → mlops → robotics,
-                   quantum computing → advanced ml (quantum machine learning)
-  tree:     linear algebra + statistics → neural networks → |ψ⟩
-            statistics + algorithms → databases / systems architecture → software engineering → |ψ⟩
-  all LaTeX is pre-rendered to assets/*.svg (MathJax) so it looks the same on web and mobile
--->
