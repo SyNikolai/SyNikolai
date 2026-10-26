@@ -36,7 +36,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-    <img alt="Tech stack: C/C++ for memory and performance, Rust for the same speed with compiler safety, Python for data, models and pipelines." src="./assets/stack-light.svg" width="56%">
+    <img alt="Tech stack: C/C++ for memory and performance, Python for data, models and pipelines, SQL for querying data where it lives." src="./assets/stack-light.svg" width="53.8%">
   </picture>
 </p>
 
