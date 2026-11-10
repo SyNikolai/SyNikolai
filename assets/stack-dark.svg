@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="600" height="180">
+<style>
+.row{opacity:0;animation:fade .6s ease-out forwards}
+@keyframes fade{to{opacity:1}}
+.bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:fill 1.2s cubic-bezier(.4,0,.2,1) forwards}
+@keyframes fill{to{transform:scaleX(1)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important}}
+</style>
+<g class="row" style="animation-delay:0.20s">
+<text x="0" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#e6edf3">C/C++</text>
+<text x="120" y="34" font-family="Georgia, Cambria, Times New Roman, serif" font-size="19" fill="#8b949e">low-latency execution and pricing engines</text>
+</g>
+<rect x="120" y="46" width="423" height="4" rx="2" fill="#30363d"/>
+<rect class="bar" style="animation-delay:0.40s" x="120" y="46" width="423" height="4" rx="2" fill="#2dd4bf"/>
+<g class="row" style="animation-delay:0.45s">
+<text x="0" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#e6edf3">Python</text>
+<text x="120" y="92" font-family="Georgia, Cambria, Times New Roman, serif" font-size="19" fill="#8b949e">research, models, backtests and pipelines</text>
+</g>
+<rect x="120" y="104" width="359" height="4" rx="2" fill="#30363d"/>
+<rect class="bar" style="animation-delay:0.65s" x="120" y="104" width="359" height="4" rx="2" fill="#2dd4bf"/>
+<g class="row" style="animation-delay:0.70s">
+<text x="0" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#e6edf3">SQL</text>
+<text x="120" y="150" font-family="Georgia, Cambria, Times New Roman, serif" font-size="19" fill="#8b949e">market data, queried where it lives</text>
+</g>
+<rect x="120" y="162" width="276" height="4" rx="2" fill="#30363d"/>
+<rect class="bar" style="animation-delay:0.90s" x="120" y="162" width="276" height="4" rx="2" fill="#2dd4bf"/>
+</svg>

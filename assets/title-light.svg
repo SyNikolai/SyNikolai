@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 110" width="380" height="110">
+<style>
+.l{opacity:0;animation:in .5s ease-out forwards}
+@keyframes in{to{opacity:1}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important}}
+</style>
+<text x="20" y="78" font-family="Georgia, Cambria, Times New Roman, serif" font-style="italic" font-size="64" fill="#1f2328"><tspan class="l" style="animation-delay:0.00s">S</tspan><tspan class="l" style="animation-delay:0.07s">y</tspan><tspan class="l" style="animation-delay:0.14s">N</tspan><tspan class="l" style="animation-delay:0.21s">i</tspan><tspan class="l" style="animation-delay:0.28s">k</tspan><tspan class="l" style="animation-delay:0.35s">o</tspan><tspan class="l" style="animation-delay:0.42s">l</tspan><tspan class="l" style="animation-delay:0.49s">a</tspan><tspan class="l" style="animation-delay:0.56s">i</tspan></text>
+</svg>
