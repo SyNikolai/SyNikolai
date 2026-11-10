@@ -28,6 +28,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-    <img alt="Tech stack: C/C++ for low-latency execution and pricing engines, Python for research, models, backtests and pipelines, SQL for market data queried where it lives." src="./assets/stack-light.svg" width="62%">
+    <img alt="Tech stack: C/C++ for performance and systems programming, Python for data analysis, machine learning and automation, SQL for querying and modelling data." src="./assets/stack-light.svg" width="62%">
   </picture>
 </p>
