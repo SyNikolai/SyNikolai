@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 44" width="720" height="44">
+<style>
+.a{opacity:0;animation:fade .6s ease-out forwards}
+@keyframes fade{to{opacity:1}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important;transform:none!important}.pk{display:none}}
+</style>
+<text class="a" style="animation-delay:0.00s" x="193.8" y="30" text-anchor="middle" font-family="Georgia, Cambria, Times New Roman, serif" font-style="italic" font-size="21" fill="#1f2328">data engineering</text>
+<circle class="a" style="animation-delay:0.07s" cx="287.6" cy="23" r="2.6" fill="#0f766e"/>
+<text class="a" style="animation-delay:0.15s" x="371.8" y="30" text-anchor="middle" font-family="Georgia, Cambria, Times New Roman, serif" font-style="italic" font-size="21" fill="#1f2328">ml engineering</text>
+<circle class="a" style="animation-delay:0.22s" cx="456.0" cy="23" r="2.6" fill="#0f766e"/>
+<text class="a" style="animation-delay:0.30s" x="497.0" y="30" text-anchor="middle" font-family="Georgia, Cambria, Times New Roman, serif" font-style="italic" font-size="21" fill="#1f2328">mlops</text>
+<circle class="a" style="animation-delay:0.37s" cx="538.0" cy="23" r="2.6" fill="#0f766e"/>
+<text class="a" style="animation-delay:0.45s" x="579.0" y="30" text-anchor="middle" font-family="Georgia, Cambria, Times New Roman, serif" font-style="italic" font-size="21" fill="#1f2328">cloud</text>
+</svg>

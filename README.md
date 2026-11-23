@@ -8,9 +8,17 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tagline-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tagline-light.svg">
+    <img alt="Data engineering, ML engineering, MLOps and cloud." src="./assets/tagline-light.svg" width="62%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img alt="An animated price chart drawing itself from left to right, with buy signals marking probability and statistics, time series, machine learning and quantitative research along the way." src="./assets/hero-light.svg" width="100%">
+    <img alt="An animated MLOps loop: a neural network trains while its loss curve falls, the new model v3 is registered, rolled out pod by pod behind a load balancer while live requests flow, and a monitored metric crosses its drift threshold, which triggers retraining on fresh data." src="./assets/hero-light.svg" width="100%">
   </picture>
 </p>
 
@@ -28,6 +36,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-    <img alt="Tech stack: C/C++ for performance and systems programming, Python for data analysis, machine learning and automation, SQL for querying and modelling data." src="./assets/stack-light.svg" width="62%">
+    <img alt="Tech stack. Languages: Python, SQL, C, C++, Bash. Data: pandas, DuckDB, SQLite, Parquet, Power BI. ML: scikit-learn. Serving: FastAPI, Flask. Platform: Docker, GitHub Actions, uv. Learning now: TensorFlow, PyTorch, MLflow, k3s, ArgoCD, Prometheus, Grafana, Azure, AWS." src="./assets/stack-light.svg" width="75%">
   </picture>
 </p>
